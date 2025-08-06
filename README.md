@@ -66,6 +66,32 @@ Pendiente   | Proyecto  | Pendiente
 
 ## Contenidos
 
+Calendario Tentativo
+
+| Semana | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado | Domingo | Proyecto |
+|--------|-------|--------|-----------|--------|---------|--------|---------|----------|
+| 1 AGOSTO | 4 | 5 | 6 Cl1 Introducción | 7 | 8 Ay1 Ubuntu, Postgresql | 9 | 10 | |
+| 2 | 11 | 12 | 13 Cl2 AR; T1 AR | 14 | 15 | 16 | 17 | |
+| 3 | 18 | 19 | 20 Cl3 Modelo E/R I; Cl4 Modelo E/R II | 21 | 22 Ay2 MER | 23 | 24 | E1 MER |
+| 4 Semana universitaria | 25 | 26 | 27 Cl5 Formas Normales; T2 modelo ER | 28 | 29 Ay3 FN | 30 - | 31 | E1 MER |
+| 5 SEPTIEMBRE | 1 | 2 | 3 Cl6 SQL I; T3 SQL I | 4 | 5 Ay4 EDT SQL PSQL | 6 | 7 | E1 MER |
+| 6 | 8 | 9 | 10 Cl7 SQL II; T4 SQL II | 11 | 12 Ay5 EDT SQL PSQL | 13 | 14 | E2 PSQL |
+| 7 Receso | 15 | 16 | 17 | 18 | 19 | 20 | 21 | |
+| 8 | 22 | 23 | 24 Ay6 Enunciado E2; AyI1* Materia I1 | 25 | 26 AyI1* Materia I1 | 27 INTE 1 | 28 | E2 PSQL |
+| 9 | 29 | 30 | 1 Cl19 Lógica en la BD ; T5 SP Triggers | 2 | 3 AY7 SP Triggers | 4 | 5 | E2 PSQL |
+| 10 OCTUBRE | 6 | 7 | 8 Cl10 Transacciones y recuperación ante fallas; T6 Schedules | 9 | 10 Ay9 PHP | 11 | 12 | E3 PHP |
+| 11 | 13 | 14 | 15 Cl11 Fundamentos de S.O. y almacenamiento; T7 Logging | 16 | 17 POR DEFINIR | 18 | 19 | E3 PHP |
+| 12 | 20 | 21 | 22 Cl12 Fundamentos de EEDD e Índices; T8 Índices | 23 | 24 Ay12* materia I2 | 25 | 26 | E3 PHP |
+| 13 | 27 | 28 INTE2 | 29 Cl13 Evaluación de consultas; T9 Evaluación de consultas | 30 | 31 Feriado | 1 | 2 | E4 php+web |
+| 14 NOVIEMBRE | 3 | 4 | 5 Cl14 ORM, Information retrieval/text, search NoSQL y MongoDB T10 MongoDB | 6 | 7 Ay14 | 8 | 9 | E4 php+web |
+| 15 | 10 | 11 | 12 Cl15 Privacidad de la información; T11 Privacidad | 13 | 14 Ay15 | 15 | 16 | E4 php+web |
+| 16 | 17 | 18 | 19 Cl16 Data Science; T12 data science | 20 | 21 Ay16 | 22 | 23 | |
+| 17 | 24 - | 25 | 26 Cl17 consultas examen | 27 | 28 FIN clases Ay17* materia examen | 29 | 30 | |
+| 18 DICIEMBRE | 1 - | 2 | 3 | 4 | 5 | 6 | 7 | |
+| 19 | 8 - feriado | 9 | 10 | 11 | 12 Examen | 13 | 14 | |
+| 20 | 15 | 16 Recorreciones finales | 17 Notas finales | | | | | |
+
+
 Semana | Contenido clase						                            | Taller             | Ayudantía              | Evaluaciones 
 -------|--------------------------------------------------------|--------------------|------------------------|-----------------------
 #1     | Introducción                       |  Ubuntu                  |        PHP                |  Enunciado E0 (V)
