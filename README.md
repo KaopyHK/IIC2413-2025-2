@@ -42,7 +42,7 @@ Martina Molina  | Coordinadora Proyecto            | [martina.molina@uc.cl]
 Gabriel Segovia | Subcoordinador                    | [gesegovia@uc.cl]
 Waldo Seguel  | Administrador de Servidor            | [waldo.seguel@uc.cl]
 José Nordenflycht  | Bienestar Sección 1 | [jos.nordenflycht@uc.cl]
-Pendiente | Bienestar Sección 2 | [xxxx@uc.cl]
+Patricio Acevedo | Bienestar Sección 2 | [psacevedo@uc.cl]
 
 #### Ayudantes
 Nombre           | Rol | Email
@@ -59,6 +59,7 @@ Pendiente   | Proyecto  | Pendiente
 [gesegovia@uc.cl]:mailto:gesegovia@uc.cl
 [waldo.seguel@uc.cl]:mailto:waldo.seguel@uc.cl
 [jos.nordenflycht@uc.cl]:mailto:jos.nordenflych@uc.cl
+[psacevedo@uc.cl]:mailto:psacevedo@uc.cl
 
 
 
