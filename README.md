@@ -1,8 +1,8 @@
-# IIC2413 - Base de Datos 2025-1
+# IIC2413 - Base de Datos 2025-2
 
 ## Tabla de contenidos
 
-- [IIC2413 - Base de Datos 2025-1](#iic2413---base-de-datos-2025-1)
+- [IIC2413 - Base de Datos 2025-2](#iic2413---base-de-datos-2025-2)
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Equipo](#equipo)
     - [Profesores](#profesores)
@@ -37,42 +37,30 @@ Christian Alvarez   | 2       | [cal@uc.cl]
 
 Nombre           | Rol                 | Email
 ---------------- |-------------------- | ----------------
-Lucas Fernández  | Coordinador General            | [lucas.fernndez@uc.cl]
-Vicente San Martín  | Coordinador Cátedra             | [vjsm@uc.cl]
+Sofía Retamales  | Coordinador Cátedra             | [sretamales@uc.cl]
 Martina Molina  | Coordinadora Proyecto            | [martina.molina@uc.cl]
-Martin Andrighetti  | Administrador de Servidor            | [martin.andrighetti@uc.cl]
-Catalina Court  | Bienestar Sección 1 | [catalina.court@uc.cl]
-Jorge Cortez | Bienestar Sección 2 | [jorge.cortez@uc.cl]
+Gabriel Segovia | Subcoordinador                    | [gesegovia@uc.cl]
+Waldo Seguel  | Administrador de Servidor            | [waldo.seguel@uc.cl]
+José Nordenflycht  | Bienestar Sección 1 | [jos.nordenflycht@uc.cl]
+Pendiente | Bienestar Sección 2 | [xxxx@uc.cl]
 
 #### Ayudantes
 Nombre           | Rol | Email
 ---------------- | ------------ | ----------------
-Agustín Becker  | Cátedra | anbecker@uc.cl
-Consuelo Inostroza | Cátedra | consuinostroza@uc.cl
-Ignacio Garrido | Cátedra | ibgarrido@uc.cl
-Olivia Llanos | Cátedra  | olivia.llanos@uc.cl
-Paula Verastegui | Cátedra  | paula.verastegui@uc.cl
-Sofía Retamales | Cátedra | sretamales@uc.cl
-Daniel Salgado | Proyecto | daniel_salgado@uc.cl
-David Parra | Proyecto | davidparra812@uc.cl
-Felipe Valderrama | Proyecto | felipe.valderrama@uc.cl
-Francisco Larrain Jr | Proyecto | fblarrain@uc.cl
-Gabriel Segovia | Proyecto | gesegovia@uc.cl
-Gustavo Morán | Proyecto | gustavo.morn@uc.cl
-Mateo Andrade | Proyecto | mateo.andrade@uc.cl
-Tomás Ketterer | Desarrollo | tketterer@uc.cl
-Waldo Seguel | Desarrollo | waldo.seguel@uc.cl
+Pendiente  | Cátedra | Pendiente
+Pendiente   | Proyecto  | Pendiente
+
 
 [eb@uc.cl]: mailto:eb@uc.cl
 [cal@uc.cl]: mailto:@uc.cl
 
-[lucas.fernndez@uc.cl]:mailto:lucas.fernndez@uc.cl
-[vjsm@uc.cl]:mailto:vjsm@uc.cl
 [martina.molina@uc.cl]:mailto:martina.molina@uc.cl
-[martin.andrighetti@uc.cl]:mailto:martin.andrighetti@uc.cl
+[sretamales@uc.cl]:mailto:sretamales@uc.cl
+[gesegovia@uc.cl]:mailto:gesegovia@uc.cl
+[waldo.seguel@uc.cl]:mailto:waldo.seguel@uc.cl
+[jos.nordenflycht@uc.cl]:mailto:jos.nordenflych@uc.cl
 
-[catalina.court@uc.cl]:mailto:catalina.court@uc.cl
-[jorge.cortez@uc.cl]:mailto:jorge.cortez@uc.cl
+
 
 ---
 
@@ -103,7 +91,7 @@ Receso |            |           |           |
 ### Bibliografía 
 - Apuntes de clases y ayudantías.
 - Recursos de Internet entregados en clase y ayudantía.
-- Material complementario disponible en [https://github.com/IIC2413/Syllabus-2025-1](https://github.com/IIC2413/Syllabus-2025-1).
+- Material complementario disponible en [https://github.com/IIC2413/Syllabus-2025-2](https://github.com/IIC2413/Syllabus-2025-2).
 - Database Management Systems, 3rd edition, de Raghu Ramakrishnan y Johannes Gehrke, disponible en [Bibliotecas UC](https://bmdigitales-bibliotecas-uc-cl.pucdechile.idm.oclc.org/html5/DATABASE%20MANAGEMENT%20SYSTEMS/).
 
 ---
@@ -114,22 +102,15 @@ Receso |            |           |           |
 
 Fecha                  | Hora | Evaluación
 -----------------------| ------- | ------------
-**16 - 04 - 2025** |  17:30   | I1
-**02 - 06 - 2025** |  17:30   | I2
-**09 - 07 - 2025** |  13:30   | Examen
+**27 - 09 - 2025** |  08:30   | I1
+**28 - 10 - 2025** |  17:30   | I2
+**12 - 12 - 2025** |  13:30   | Examen
 
 ### Proyecto
 
 Fecha                  | Evaluación
 -----------------------|------------
-**07 - 03 - 2025** | Enunciado E0
-**30 - 03 - 2025** | Entrega E0
-**31 - 03 - 2025** | Enunciado E1
-**13 - 04 - 2025** | Entrega E1
-**14 - 04 - 2025** | Enunciado E2
-**27 - 04 - 2025** | Entrega E2
-**05 - 05 - 2025** | Enunciado E3
-**08 - 06 - 2025** | Entrega E3
+Pendiente
 
 ---
 
@@ -137,38 +118,49 @@ Fecha                  | Evaluación
 
 ### Aprobación del curso
 
+La asistencia a los Talleres $T$ se evalúa con nota según la siguiente tabla:
+
+Asistencia | $T$
+-------- | -------
+0% a 29%   | 2,0
+30% a 49%   | 4,0
+50% a 59%   | 5,0
+76% a 69%   | 6,0
+70% a 100%   | 7,0
+
 El promedio $\bar{C}$ de las evaluaciones de cátedra (I1, I2, Examen) se calcula según
 
-$\bar{C} = \frac{I1 + I2 + 1,5 \cdot Examen}{3,5}$
+$\bar{C} = \frac{I1 + I2 + 0,3 \cdot T +  1,5 \cdot Examen}{3,8}$
 
-En el proyecto, cada etapa tiene un puntaje asociado, siendo el total del proyecto 100 puntos (E0 = 10pts, E1 = 20pts, E2 = 30pts, E3 = 40pts). El puntaje final del proyecto es:
+En el proyecto, cada etapa tiene un puntaje asociado, siendo el total del proyecto 100 puntos (E1 = 20pts, E2 = 30pts, E3 = 20pts, E4 = 30pts). El puntaje final del proyecto es:
 
-$PP = \sum_{i=0}^{3} E_i$
+$PP = \sum_{i=1}^{4} E_i$
 
-La asistencia a la ayudantía $A_m$ se evalúa según la siguiente tabla:
+La asistencia a la ayudantía $f$ se evalúa según la siguiente tabla:
 
-Asistencia | $A_m$
+Asistencia | $f$
 -------- | -------
-0 a 4   | 0,7
-5   | 0,8
-6   | 0,9
-7   | 1
-8   | 1,05
-9   |   1,1
+0% a 49%   | 0,7
+50% a 59%   | 0,8
+60% a 69%   | 0,9
+70% a 89%   | 1
+90% a 100%   | 1,05
 
 La nota final del proyecto $P$ se calcula según
 
-$P = \frac{(PP \cdot A_m)}{100}*6 + 1$
+$P = \frac{(PP \cdot f)}{100}*6 + 1$
 
 La nota de presentación al examen $(NP)$ se calculará como:
 
-$NP = ( 0.5 \cdot P + 0.5 \cdot \frac{I1 + I2}{2} )$
+$NP = ( 0.5 \cdot P + 0.5 \cdot \frac{I1 + I2 + 7 \cdot 0,3}{2,3} )$
 
 Se eximirán los estudiantes que cumplan todas las siguientes condiciones
 
 - Haber rendido ambas interrogaciones
-- Cada interrogación con nota mayor o igual a 4.0
-- Las etapas 1, 2 y 3 del proyecto mayor o igual al 50% del puntaje ($\forall i E_i ≥ \frac{PE_i}{2}$)
+- Cada interrogación con nota mayor o igual a 4,0
+- Asistencia a talleres mayor o igual a 50%
+- Asistencia a ayudantías mayor o igual a 70%
+- Cada etapa del proyecto mayor o igual al 50% del puntaje ($\forall i E_i ≥ \frac{PE_i}{2}$)
 - $NP$ ≥ 5,3
 
 La nota final $(NF)$ se calcula como
@@ -179,7 +171,7 @@ El curso se aprueba si, y solo si, todas las siguiente condiciones se cumplen:
 
 - Nota final mayor o igual a 4,0 ($NF$ ≥ 4,0).
 - Promedio de las evaluaciones de cátedra es mayor o igual a 3.9 ($\bar{C}$ ≥ 3,9)
-- Nota del proyecto mayor o igual a 4,0 ($P$ ≥ 4,0)
+- Nota del proyecto mayor o igual a 3,9 ($P$ ≥ 3,9)
 
 En caso de no aprobar, la nota final del curso se calculará como mín{ **NF**, 3,9 }.
 
@@ -188,7 +180,7 @@ En caso de no aprobar, la nota final del curso se calculará como mín{ **NF**, 
 
 ## Foro
 
-La página de [_Issues_](https://github.com/IIC2413/Syllabus-2025-1/issues) se utilizará como foro para preguntas. Notar que las etiquetas ya se encuentran definidas. **Este es el único canal oficial para formular preguntas**.
+La página de [_Issues_](https://github.com/IIC2413/Syllabus-2025-2/issues) se utilizará como foro para preguntas. Notar que las etiquetas ya se encuentran definidas. **Este es el único canal oficial para formular preguntas**.
 
 Tanto al publicar como comentar, debes atenerte a las **normas del curso**. Además, debes utilizar **[_Markdown_](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)** cuando sea necesario. Por ejemplo, cuando se necesita mostrar código o mensajes de error.
 
