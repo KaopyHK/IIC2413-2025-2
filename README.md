@@ -92,28 +92,6 @@ Calendario Tentativo
 | 20 | 15 | 16 Recorreciones finales | 17 Notas finales | | | | | |
 
 
-Semana | Contenido clase						                            | Taller             | Ayudantía              | Evaluaciones 
--------|--------------------------------------------------------|--------------------|------------------------|-----------------------
-#1     | Introducción                       |  Ubuntu                  |        PHP                |  Enunciado E0 (V)
-#2     | Álgebra relacional 					                          | Álgebra relacional |  Limpieza de datos  |  
-#3     | Modelo E/R I y II			                                    |      |  Esquema + Modelo E/R    | 
-#4     | Formas Normales                                | Modelo E/R      |   EDR + Formas Normales                     |  Entrega E0 (D)
-#5     | SQL I                        	                |    SQL I             | SQL I             |  Enunciado E1 (L)
-#6     | SQL II                           |    SQL II                |  SQL II            | Entrega E1 (D)
-#7     | Consultas I1             |                    |	              |   I1 (W) + Enunciado E2 (L)
-#8     | Lógica en la BD, Triggers, Vistas, SP             |    Vistas, SP, Triggers         |   SP, Triggers                     | Entrega E2 (D)
-Receso |            |           |           | 
-#9     | Transacciones y recuperación ante fallas               | Schedules            |     PHP + SQL      | Enunciado E3 (L)
-#10    | Fundamentos de S.O. y Almacenamiento |   Logging                 |     Integración BD PHP + SQL                   | 
-#11    | 	Feriado                    |             |             | 
-#12    | Fundamentos de EEDD e Índices            |       Índices             |                        | 
-#13    | Evaluación de consultas      |      TBD              |                        | I2 (L) + Entrega E3 (D)
-#14    | ORM, Information retreival/text search, NoSQL y MongoDB                                  |     MongoDB        |                        | 
-#15    |		Privacidad de la información	                      |                    |                        |
-#16    | Data Science        | Data Science       |                |   
-#17    | Libre               |                    |                        | 
-#18    | Libre								                                  |                    |                        | Examen (W)
-
 ### Bibliografía 
 - Apuntes de clases y ayudantías.
 - Recursos de Internet entregados en clase y ayudantía.
