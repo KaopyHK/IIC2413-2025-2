@@ -47,7 +47,13 @@ Patricio Acevedo | Bienestar Sección 2 | [psacevedo@uc.cl]
 #### Ayudantes
 Nombre           | Rol | Email
 ---------------- | ------------ | ----------------
-Pendiente  | Cátedra | Pendiente
+Agustín Becker  | Cátedra | anbecker@uc.cl
+Alex Fonseca | Cátedra | alex.fonseca@uc.cl
+José Mendoza | Cátedra | jfmendoza@uc.cl
+Matías Retamales | Cátedra | miretamales@uc.cl
+Giuliana Tirachini | Cátedra | giuliana.tirachini@uc.cl
+Ignacio Garrido | Cátedra | ibgarrido@uc.cl
+Agustín Consolo | Cátedra | aconsolo@uc.cl
 Pendiente   | Proyecto  | Pendiente
 
 
@@ -58,8 +64,16 @@ Pendiente   | Proyecto  | Pendiente
 [sretamales@uc.cl]:mailto:sretamales@uc.cl
 [gesegovia@uc.cl]:mailto:gesegovia@uc.cl
 [waldo.seguel@uc.cl]:mailto:waldo.seguel@uc.cl
-[jos.nordenflycht@uc.cl]:mailto:jos.nordenflych@uc.cl
+[jos.nordenflycht@uc.cl]:mailto:jos.nordenflycht@uc.cl
 [psacevedo@uc.cl]:mailto:psacevedo@uc.cl
+[anbecker@uc.cl]:mailto:anbecker@uc.cl
+[alex.fonseca@uc.cl]:mailto:alex.fonseca@uc.cl
+[jfmendoza@uc.cl]:mailto:jfmendoza@uc.cl
+[miretamales@uc.cl]:mailto:miretamales@uc.cl
+[giuliana.tirachini@uc.cl]:mailto:giuliana.tirachini@uc.cl
+[ibgarrido@uc.cl]:mailto:ibgarrido@uc.cl
+[aconsolo@uc.cl]:mailto:aconsolo@uc.cl
+
 
 
 
