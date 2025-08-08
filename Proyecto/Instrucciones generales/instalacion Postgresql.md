@@ -1,6 +1,9 @@
 # Tutorial de instalación de PostgreSQL en Mac y Windows
 
-## Instalación en Mac
+## Instalación Postgresql App en Mac 
+https://postgresapp.com/
+
+## Instalación en Mac usando Brew
 
 1. Abre la terminal en tu Mac.
 
@@ -44,8 +47,9 @@
 
     ```shell
     psql --version
+
     ```
 
-¡Eso es todo! Ahora tienes PostgreSQL instalado en tu Mac o Windows utilizando la línea de comandos.
+## Video Complementario
 
-Espero que este tutorial te sea útil. Si tienes alguna otra pregunta, no dudes en preguntar.
+https://youtu.be/gVExAzegHds
