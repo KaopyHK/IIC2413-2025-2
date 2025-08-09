@@ -1,7 +1,7 @@
+MANUALES
+  
 Manual de lenguaje SQL de Postgresql
 - https://www.postgresql.org/docs/17/sql.html
-  
-Manual de lenguaje PSQL de Postgresql
 - https://www.postgresql.org/docs/17/app-psql.html
 
 Linux
@@ -11,9 +11,3 @@ Linux
 
 PHP
 - https://link-springer-com.pucdechile.idm.oclc.org/book/10.1007/978-1-4842-8082-9
-
-Google Colab
-- https://colab.research.google.com/#scrollTo=5fCEDCU_qrC0
-
-Jupyter notebook
-- https://docs.jupyter.org/en/latest/
