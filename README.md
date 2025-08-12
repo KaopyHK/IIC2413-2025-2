@@ -54,7 +54,16 @@ Matías Retamales | Cátedra | miretamales@uc.cl
 Giuliana Tirachini | Cátedra | giuliana.tirachini@uc.cl
 Ignacio Garrido | Cátedra | ibgarrido@uc.cl
 Agustín Consolo | Cátedra | aconsolo@uc.cl
-Pendiente   | Proyecto  | Pendiente
+Sebastián Salgado | Cátedra | ssalgadn@uc.cl
+Daniel Salgado | Proyecto  | daniel_salgado@uc.cl
+Vicente Alveal | Proyecto | vicente.alveal@uc.cl
+Manuel Mandujano | Proyecto | manuel.mandujano@uc.cl
+Francisca Matte | Proyecto | francisca.matte@uc.cl
+Xaviera Zuloaga | Proyecto | xzuloaga@uc.cl
+Antonia Sierra | Proyecto | asierra2@uc.cl
+Francisco Cornejo | Proyecto | fcornejoq@estudiante.uc.cl
+Felipe Blasquez | Proyecto | fblasquez@estudiante.uc.cl
+Víctor Ruiz | Proyecto | veruiz@uc.cl
 
 
 [eb@uc.cl]: mailto:eb@uc.cl
@@ -73,7 +82,16 @@ Pendiente   | Proyecto  | Pendiente
 [giuliana.tirachini@uc.cl]:mailto:giuliana.tirachini@uc.cl
 [ibgarrido@uc.cl]:mailto:ibgarrido@uc.cl
 [aconsolo@uc.cl]:mailto:aconsolo@uc.cl
-
+[ssalgadn@uc.cl]:mailto:ssalgadn@uc.cl
+[daniel_salgado@uc.cl]:mailto:daniel_salgado@uc.cl
+[vicente.alveal@uc.cl]:mailto:vicente.alveal@uc.cl
+[manuel.mandujano@uc.cl]:mailto:manuel.mandujano@uc.cl
+[francisca.matte@uc.cl]:mailto:francisca.matte@uc.cl
+[xzuloaga@uc.cl]:mailto:xzuloaga@uc.cl
+[asierra2@uc.cl]:mailto:asierra2@uc.cl
+[fcornejoq@estudiante.uc.cl]:mailto:fcornejoq@estudiante.uc.cl
+[fblasquez@estudiante.uc.cl]:mailto:fblasquez@estudiante.uc.cl
+[veruiz@uc.cl]:mailto:veruiz@uc.cl
 
 
 
@@ -125,7 +143,7 @@ Fecha                  | Hora | Evaluación
 **28 - 10 - 2025** |  17:30   | I2
 **12 - 12 - 2025** |  13:30   | Examen
 
-### Proyecto
+### Proyecto (tentativo)
 
 Fecha                  | Evaluación
 -----------------------|------------
